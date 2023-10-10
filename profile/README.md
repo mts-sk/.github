@@ -1,8 +1,15 @@
+<a href="https://www.mts.sk/en/">
+    <img src="https://github.com/mts-sk/.github/blob/main/profile/assets/mts_logo-header.svg" width="600"/>
+</a>
+
+
 Hi,
 
 In this organization, we share legacy projects, artifacts, and information with our partners. We do not maintain these repositories for the general audience.
 
-However, we are engaged in several open-source projects, which we publicly share and where you may ask for support.
+However, we are engaged in several open-source projects. 
+
+Here they are:
 
 ### [AX#](https://github.com/ix-ax/axopen) 
 
